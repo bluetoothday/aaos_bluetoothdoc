@@ -1,2 +1,1 @@
-# aaos_bluetoothdoc
-save doc about aaos bluetooth related doc
+cargo new aaos_bluetoothdoc
